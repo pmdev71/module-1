@@ -1,0 +1,23 @@
+.divclass{
+
+    background-color: cornflowerblue;
+    border: 5px solid red;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.blog{
+    text-align: justify;
+}
+
+.writer{
+
+    color: blue;
+}
+
+.title{
+
+    text-align: center;
+}
